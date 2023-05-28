@@ -1,6 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izancalderaro&layout=compact&size_weight=0.1&count_weight=0.9&theme=gruvbox)](https://github.com/izancalderaro/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izancalderaro&show_icons=true&theme=gruvbox)](https://github.com/izancalderaro/github-readme-stats)
+[![izancalderaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=izancalderaro&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/izancalderaro/github-readme-stats)
 
 <!--
 **izancalderaro/izancalderaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
