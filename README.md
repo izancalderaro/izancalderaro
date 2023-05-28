@@ -35,7 +35,7 @@ I'm improve concepts at the moment<br>
 
 I'm learning too<br>
 
-![English](https://img.shields.io/badge/-English-blue) ![and](https://img.shields.io/badge/-and-ffffff) (https://img.shields.io/badge/-Italian-success)
+![English](https://img.shields.io/badge/-English-blue) ![and](https://img.shields.io/badge/-and-ffffff) ![Italian](https://img.shields.io/badge/-Italian-success)
 
 <!-- [![izancalderaro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=izancalderaro)](https://github.com/izancalderaro/) -->
 
