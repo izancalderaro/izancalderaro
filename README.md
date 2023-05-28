@@ -20,8 +20,10 @@
 <a href="https://linkedin.com/in/izan-calderaro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izan-calderaro/" height="30" width="40" /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=izancalderaro&layout=compact&size_weight=0.1&count_weight=0.9&theme=gruvbox&show_icons=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izancalderaro&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=izancalderaro&hide=TeX&layout=compact&size_weight=0.1&count_weight=0.9&theme=gruvbox)
+
 
 
