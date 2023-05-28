@@ -6,10 +6,10 @@
 
 **I’m currently working on**<br>
 
-![Angular](https://img.shields.io/badge/-Angular-C14438?style=flat-square&logo=angular)
-![Angular Material](https://img.shields.io/badge/-AngularMaterial-3F51B5?style=flat-square&logo=material)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F1F2F3?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F1F2F3?style=flat-square&logo=javascript)
+![Angular](https://img.shields.io/badge/-Angular-C14438?style=flat-square&logo=angular)
+![Angular Material](https://img.shields.io/badge/-AngularMaterial-3F51B5?style=flat-square&logo=material)
 ![JQuery](https://img.shields.io/badge/-Jquery-blue?style=flat-square&logo=jquery)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
