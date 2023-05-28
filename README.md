@@ -28,9 +28,9 @@ I'm improve concepts at the moment<br>
 ![RXJS](https://img.shields.io/badge/-RXJS-purple?style=flat-square&logo=rxjs)
 ![NGRX](https://img.shields.io/badge/-NGRX-purple?style=flat-square&logo=ngrx)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Docker](https://img.shields.io/badge/-Docker-F1F2F3?style=flat-square&logo=docker)
+![MongoDB](https://img.shields.io/badge/-MongoDB-F1F2F3?style=flat-square&logo=mongodb)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-F1F2F3?style=flat-square&logo=bootstrap)
 
 I'm learning too **English and Italian**
 
