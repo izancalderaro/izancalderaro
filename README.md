@@ -33,7 +33,7 @@ I'm improve concepts at the moment<br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-F1F2F3?style=flat-square&logo=mongodb)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-F1F2F3?style=flat-square&logo=bootstrap)
 
-I'm learning too ![RXJS](https://img.shields.io/badge/-RXJS-D81B60?style=flat-square&logo=english)![RXJS](https://img.shields.io/badge/-RXJS-D81B60?style=flat-square&logo=italy)
+I'm learning too ![RXJS](https://img.shields.io/badge/-RXJS-D81B60?style=flat-square&logo=usa) ![RXJS](https://img.shields.io/badge/-RXJS-D81B60?style=flat-square&logo=italy)
 
 
 <!-- [![izancalderaro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=izancalderaro)](https://github.com/izancalderaro/) -->
