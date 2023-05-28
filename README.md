@@ -12,7 +12,7 @@ I'm learning at the moment **Improve my concepts of Capacitor, RXJS, NGRX and AW
 I'm learning too **English and Italian**
 
 
-[![izancalderaro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=izancalderaro)](https://github.com/izancalderaro/github-readme-stats)
+[![izancalderaro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=izancalderaro)](https://github.com/izancalderaro/)
 
 <h2 align="center">Technologies & Tools</h2>
 
