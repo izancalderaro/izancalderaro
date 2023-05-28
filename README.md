@@ -1,7 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izancalderaro&size_weight=0&count_weight=1&theme=dracula)](https://github.com/izancalderaro/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izancalderaro&size_weight=0.7&count_weight=0.3&theme=dark)](https://github.com/izancalderaro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izancalderaro&size_weight=0.8&count_weight=0.2&theme=gruvbox)](https://github.com/izancalderaro/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izancalderaro&show_icons=true&theme=dark)](https://github.com/izancalderaro/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izancalderaro&show_icons=true&theme=gruvbox)](https://github.com/izancalderaro/github-readme-stats)
 
 <!--
 **izancalderaro/izancalderaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
