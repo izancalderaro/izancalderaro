@@ -2,7 +2,7 @@
  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,Izan Calderaro here (Dev) 
 </h2> 
 
-###contact me at 
+### contact me at 
  
  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-izancalderaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izan-calderaro/)](https://www.linkedin.com/in/izan-calderaro/)
 
