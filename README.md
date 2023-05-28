@@ -1,5 +1,8 @@
-<h1 align="center">Izan Calderaro (Dev)</h1>
-<h3 align="center">Senior Front-end developer</h3>
+
+<h3 align="center">
+  Izan Calderaro (Dev) <br>
+  Senior Front-end developer
+</h3>
 
 - 🔭 I’m currently working on **Angular 2+, Angular Material, JQuery, CSS, SASS, HTML, PostgreSQL, NodeJS, Express**
 
