@@ -45,9 +45,7 @@
 ## GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izancalderaro&show_icons=true&theme=gruvbox)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=izancalderaro&hide=TeX&layout=compact&size_weight=0.1&count_weight=0.9&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izancalderaro&show_icons=true&theme=gruvbox)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=izancalderaro&hide=TeX&layout=compact&size_weight=0.1&count_weight=0.9&theme=gruvbox)
 
 
 
