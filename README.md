@@ -20,7 +20,7 @@ I’m currently working on<br>
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-F1F2F3?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-F1F2F3?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-F1F2F3?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-ccc?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 I'm improve concepts at the moment<br>
