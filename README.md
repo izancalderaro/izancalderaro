@@ -27,7 +27,8 @@ I'm improve concepts at the moment<br>
 ![RXJS](https://img.shields.io/badge/-RXJS-D81B60?style=flat-square&logo=rxjs)
 ![NGRX](https://img.shields.io/badge/-NGRX-D81B60?style=flat-square&logo=ngrx)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-000?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-F1F2F3?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/-Kubernates-F1F2F3?style=flat-square&logo=Kubernates)
+![Kubernates](https://img.shields.io/badge/-Docker-F1F2F3?style=flat-square&logo=docker)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-F1F2F3?style=flat-square&logo=mongodb)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-F1F2F3?style=flat-square&logo=bootstrap)
 
