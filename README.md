@@ -4,7 +4,7 @@
 
 ### Senior Front-end developer
 
-I’m currently working on<br>
+**I’m currently working on**<br>
 
 ![Angular](https://img.shields.io/badge/-Angular-C14438?style=flat-square&logo=angular)
 ![Angular Material](https://img.shields.io/badge/-AngularMaterial-3F51B5?style=flat-square&logo=material)
@@ -22,10 +22,11 @@ I’m currently working on<br>
 ![GitLab](https://img.shields.io/badge/-GitLab-F1F2F3?style=flat-square&logo=gitlab)
 ![Jest](https://img.shields.io/badge/-Jest-15C213?style=flat-square&logo=jest)
 
-I'm improve concepts at the moment<br>
+**I'm improve concepts at the moment**<br>
 
 ![RXJS](https://img.shields.io/badge/-RXJS-D81B60?style=flat-square&logo=rxjs)
 ![NGRX](https://img.shields.io/badge/-NGRX-D81B60?style=flat-square&logo=ngrx)
+![Java](https://img.shields.io/badge/-Java-F1F2F3?style=flat-square&logo=java)
 ![Springboot](https://img.shields.io/badge/-Springboot-F1F2F3?style=flat-square&logo=springboot)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-000?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Kubernates-F1F2F3?style=flat-square&logo=kubernates)
@@ -33,7 +34,7 @@ I'm improve concepts at the moment<br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-F1F2F3?style=flat-square&logo=mongodb)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-F1F2F3?style=flat-square&logo=bootstrap)
 
-I'm learning too<br>
+**I'm learning too**<br>
 
 ![English](https://img.shields.io/badge/-English-blue) ![and](https://img.shields.io/badge/-and-ffffff) ![Italian](https://img.shields.io/badge/-Italian-success)
 
