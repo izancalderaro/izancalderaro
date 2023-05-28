@@ -24,7 +24,7 @@ I’m currently working on<br>
 
 I'm improve concepts at the moment<br>
 
-![RXJS](https://img.shields.io/badge/-RXJS-D81B60?style=flat-square&logo=reaciveprogramming)
+![RXJS](https://img.shields.io/badge/-RXJS-D81B60?style=flat-square&logo=rxjs)
 ![NGRX](https://img.shields.io/badge/-NGRX-D81B60?style=flat-square&logo=ngrx)
 ![Springboot](https://img.shields.io/badge/-Springboot-F1F2F3?style=flat-square&logo=springboot)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-000?style=flat-square&logo=amazon-aws)
@@ -33,7 +33,7 @@ I'm improve concepts at the moment<br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-F1F2F3?style=flat-square&logo=mongodb)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-F1F2F3?style=flat-square&logo=bootstrap)
 
-I'm learning too **English and Italian**
+I'm learning too ![RXJS](https://img.shields.io/badge/-RXJS-D81B60?style=flat-square&logo=english)![RXJS](https://img.shields.io/badge/-RXJS-D81B60?style=flat-square&logo=italy)
 
 
 <!-- [![izancalderaro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=izancalderaro)](https://github.com/izancalderaro/) -->
