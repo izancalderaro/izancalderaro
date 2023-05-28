@@ -15,11 +15,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-F1F2F3?style=flat-square&logo=sass)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-F1F2F3?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-F1F2F3?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-F1F2F3?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-F1F2F3?style=flat-square&logo=gitlab)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Jest](https://img.shields.io/badge/-Jest-15C213?style=flat-square&logo=jest)
 
 **I'm improve concepts at the moment**<br>
