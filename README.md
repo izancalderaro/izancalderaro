@@ -8,7 +8,9 @@
 
 I’m currently working on **Angular 2+, Angular Material, Typescript, Javascript, JQuery, CSS, SASS, HTML, PostgreSQL, NodeJS, Express**
 
-I'm learning at the moment **English, Italian and improve my concepts Capacitor, RXJS, NGRX and AWS**
+I'm learning at the moment **Improve my concepts of Capacitor, RXJS, NGRX and AWS**
+
+I'm learnig too **English and Italian**
 
 
 [![izancalderaro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=izancalderaro)](https://github.com/izancalderaro/github-readme-stats)
