@@ -22,16 +22,13 @@ I’m currently working on:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-
-
-
-
-I'm learning at the moment: **Improve my concepts RXJS, NGRX, MondoDB and AWS**
-![RXJS](https://img.shields.io/badge/-RXJS-black?style=flat-square&logo=rxjs)
+I'm learning at the moment:
+![RXJS](https://img.shields.io/badge/-RXJS-purple?style=flat-square&logo=rxjs)
+![NGRX](https://img.shields.io/badge/-NGRX-purple?style=flat-square&logo=ngrx)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 I'm learning too **English and Italian**
 
