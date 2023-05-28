@@ -6,7 +6,7 @@
 
 ### Senior Front-end developer
 
-I’m currently working on  HTML5, JQuery, CSS3, SASS, PostgreSQL, NodeJS, Express**
+I’m currently working on:
 
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
 ![Angular Material](https://img.shields.io/badge/-AngularMaterial-red?style=flat-square&logo=material)
@@ -18,17 +18,20 @@ I’m currently working on  HTML5, JQuery, CSS3, SASS, PostgreSQL, NodeJS, Expre
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-I'm learning at the moment **Improve my concepts RXJS, NGRX, MondoDB and AWS**
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+
+
+
+I'm learning at the moment: **Improve my concepts RXJS, NGRX, MondoDB and AWS**
+![RXJS](https://img.shields.io/badge/-RXJS-black?style=flat-square&logo=rxjs)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 I'm learning too **English and Italian**
 
