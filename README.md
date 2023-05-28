@@ -1,7 +1,9 @@
 
 <h1 align="center">
- Hi Izan Calderaro here(Dev) <br>
-</h1>  Senior Front-end developer
+ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,Izan Calderaro here (Dev) <br>
+</h1> 
+
+<p align = "justify">Senior Front-end developer</p>
 
 
 I’m currently working on **Angular 2+, Angular Material, Typescript, Javascript, JQuery, CSS, SASS, HTML, PostgreSQL, NodeJS, Express**
