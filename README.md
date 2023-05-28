@@ -24,8 +24,8 @@ I’m currently working on<br>
 
 I'm improve concepts at the moment<br>
 
-![RXJS](https://img.shields.io/badge/-RXJS-purple?style=flat-square&logo=rxjs)
-![NGRX](https://img.shields.io/badge/-NGRX-purple?style=flat-square&logo=ngrx)
+![RXJS](https://img.shields.io/badge/-RXJS-D81B60?style=flat-square&logo=rxjs)
+![NGRX](https://img.shields.io/badge/-NGRX-D81B60?style=flat-square&logo=ngrx)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-000?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-F1F2F3?style=flat-square&logo=docker)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-F1F2F3?style=flat-square&logo=mongodb)
