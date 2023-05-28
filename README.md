@@ -14,7 +14,7 @@ I’m currently working on<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![SASS](https://img.shields.io/badge/-SASS-1F2F3?style=flat-square&logo=sass)
+![SASS](https://img.shields.io/badge/-SASS-F1F2F3?style=flat-square&logo=sass)
 ![JQuery](https://img.shields.io/badge/-Jquery-blue?style=flat-square&logo=jquery)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
