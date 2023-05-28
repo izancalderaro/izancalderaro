@@ -26,7 +26,6 @@
 
 ![RXJS](https://img.shields.io/badge/-RXJS-D81B60?style=flat-square&logo=rxjs)
 ![NGRX](https://img.shields.io/badge/-NGRX-D81B60?style=flat-square&logo=ngrx)
-![Java](https://img.shields.io/badge/-Java-F1F2F3?style=flat-square&logo=java)
 ![Springboot](https://img.shields.io/badge/-Springboot-F1F2F3?style=flat-square&logo=springboot)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-000?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Kubernates-F1F2F3?style=flat-square&logo=kubernates)
