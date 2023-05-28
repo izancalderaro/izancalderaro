@@ -24,7 +24,7 @@ I’m currently working on<br>
 
 I'm improve concepts at the moment<br>
 
-![RXJS](https://img.shields.io/badge/-RXJS-D81B60?style=flat-square&logo=rxjs)
+![RXJS](https://img.shields.io/badge/-RXJS-D81B60?style=flat-square&logo=reaciveprogramming)
 ![NGRX](https://img.shields.io/badge/-NGRX-D81B60?style=flat-square&logo=ngrx)
 ![Springboot](https://img.shields.io/badge/-Springboot-F1F2F3?style=flat-square&logo=springboot)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-000?style=flat-square&logo=amazon-aws)
