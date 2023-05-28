@@ -1,8 +1,8 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,Izan Calderaro here (Dev) 
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-izancalderaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izan-calderaro/)](https://www.linkedin.com/in/izan-calderaro/)
+[![Linkedin Badge](https://img.shields.io/badge/-izancalderaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izan-calderaro/)](https://www.linkedin.com/in/izan-calderaro/)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-izancalderaro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:izancalderaro@gmail.com)](mailto:izancalderaro@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-izancalderaro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:izancalderaro@gmail.com)](mailto:izancalderaro@gmail.com)
 
 ### Senior Front-end developer
 
