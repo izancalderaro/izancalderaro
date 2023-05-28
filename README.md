@@ -10,7 +10,10 @@
 
 I’m currently working on **Angular 2+, Angular Material, Typescript, Javascript, JQuery, CSS, SASS, HTML, PostgreSQL, NodeJS, Express**
 
-I'm learning at the moment **Improve my concepts of Capacitor, RXJS, NGRX and AWS**
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
+I'm learning at the moment **Improve my concepts RXJS, NGRX and AWS**
 
 I'm learning too **English and Italian**
 
