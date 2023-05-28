@@ -9,7 +9,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=izancalderaro&layout=compact&size_weight=0.1&count_weight=0.9&theme=gruvbox&show_icons=true" alt="izancalderaro" /></p>
 
-[![izancalderaro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=izancalderaro&layout=compact)](https://github.com/izancalderaro/github-readme-stats)
+[![izancalderaro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=izancalderaro)](https://github.com/izancalderaro/github-readme-stats)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
 
