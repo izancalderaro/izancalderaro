@@ -44,7 +44,7 @@ I'm learning too **English and Italian**
 ## GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izancalderaro&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izancalderaro&count_private=true&show_icons=true&theme=gruvbox)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=izancalderaro&hide=TeX&layout=compact&size_weight=0.1&count_weight=0.9&theme=gruvbox)
 
