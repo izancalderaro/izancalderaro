@@ -19,7 +19,7 @@ I’m currently working on<br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-F1F2F3?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-F1F2F3?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitLab](https://img.shields.io/badge/-GitLab-F1F2F3?style=flat-square&logo=gitlab)
 ![Jest](https://img.shields.io/badge/-Jest-15C213?style=flat-square&logo=jest)
 
 I'm improve concepts at the moment<br>
