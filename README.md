@@ -8,7 +8,8 @@
 
 I’m currently working on **Angular 2+, Angular Material, Typescript, Javascript, HTML5, JQuery, CSS3, SASS, PostgreSQL, NodeJS, Express**
 
-![MongoDB](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=mongodb)
+![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
+![Angular Material](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angularmaterial)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
