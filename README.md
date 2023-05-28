@@ -6,7 +6,7 @@
 
 ### Senior Front-end developer
 
-I’m currently working on:
+I’m currently working on<br>
 
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
 ![Angular Material](https://img.shields.io/badge/-AngularMaterial-red?style=flat-square&logo=material)
@@ -22,7 +22,7 @@ I’m currently working on:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-I'm learning at the moment:
+I'm learning at the moment<br>
 ![RXJS](https://img.shields.io/badge/-RXJS-purple?style=flat-square&logo=rxjs)
 ![NGRX](https://img.shields.io/badge/-NGRX-purple?style=flat-square&logo=ngrx)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
