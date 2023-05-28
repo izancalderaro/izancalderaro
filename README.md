@@ -33,9 +33,9 @@ I'm improve concepts at the moment<br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-F1F2F3?style=flat-square&logo=mongodb)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-F1F2F3?style=flat-square&logo=bootstrap)
 
-I'm learning too<br>
+![I'm learning too](https://img.shields.io/badge/-I'm learning too-ffffff)
 
-![English](https://img.shields.io/badge/-English-red)![and](https://img.shields.io/badge/-and-ffffff)![Italian](https://img.shields.io/badge/--success)![Italian](https://img.shields.io/badge/-Italian-ffffff)![Italian](https://img.shields.io/badge/--red)
+![English](https://img.shields.io/badge/-English-blue) ![and](https://img.shields.io/badge/-and-ffffff) ![Italian](https://img.shields.io/badge/--success)![Italian](https://img.shields.io/badge/-Italian-ffffff)![Italian](https://img.shields.io/badge/--red)
 
 
 <!-- [![izancalderaro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=izancalderaro)](https://github.com/izancalderaro/) -->
