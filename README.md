@@ -9,7 +9,7 @@
 I’m currently working on **Angular 2+, Angular Material, Typescript, Javascript, HTML5, JQuery, CSS3, SASS, PostgreSQL, NodeJS, Express**
 
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
-![Angular Material](https://img.shields.io/badge/-Angular-Material-red?style=flat-square&logo=angularmaterial)
+![Angular Material](https://img.shields.io/badge/-Angular-Material-red?style=flat-square&logo=material)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
