@@ -1,7 +1,7 @@
 
-<h1 align="center">
+<h2 align="center">
  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,Izan Calderaro here (Dev) <br>
-</h1> 
+</h2> 
 
 <p align = "justify">Senior Front-end developer</p>
 
