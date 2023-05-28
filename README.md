@@ -20,7 +20,7 @@ I’m currently working on<br>
 ![Git](https://img.shields.io/badge/-Git-F1F2F3?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Karma](https://img.shields.io/badge/-SASS-F1F2F3?style=flat-square&logo=karma)
+![Jest](https://img.shields.io/badge/-Jest-F1F2F3?style=flat-square&logo=jest)
 
 I'm improve concepts at the moment<br>
 
