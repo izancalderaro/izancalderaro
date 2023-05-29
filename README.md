@@ -5,7 +5,7 @@
 
 ### Senior Front-end developer
 
-**I’m currently working on**<br>
+## I’m currently working on
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F1F2F3?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F1F2F3?style=flat-square&logo=javascript)
