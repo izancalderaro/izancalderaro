@@ -23,7 +23,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Jest](https://img.shields.io/badge/-Jest-15C213?style=flat-square&logo=jest)
 
-**I'm improve concepts at the moment**<br>
+## I'm improve concepts at the moment
 
 ![RXJS](https://img.shields.io/badge/-RXJS-D81B60?style=flat-square&logo=rxjs)
 ![NGRX](https://img.shields.io/badge/-NGRX-D81B60?style=flat-square&logo=ngrx)
@@ -33,7 +33,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-F1F2F3?style=flat-square&logo=bootstrap)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-000?style=flat-square&logo=amazon-aws)
 
-**I'm learning too**<br>
+## I'm learning too
 
 ![English](https://img.shields.io/badge/-English-blue) ![and](https://img.shields.io/badge/-and-ffffff) ![Italian](https://img.shields.io/badge/-Italian-success)
 
