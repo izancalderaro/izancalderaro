@@ -37,7 +37,7 @@
 
 ![English](https://img.shields.io/badge/-English-blue) ![and](https://img.shields.io/badge/-and-ffffff) ![Italian](https://img.shields.io/badge/-Italian-success)
 
-[![izancalderaro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@51522b37-dc12-448d-b3e3-2662b3a48a08)](https://wakatime.com/@51522b37-dc12-448d-b3e3-2662b3a48a08)
+[![izancalderaro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=51522b37-dc12-448d-b3e3-2662b3a48a08)](https://wakatime.com/@51522b37-dc12-448d-b3e3-2662b3a48a08)
 
 ## Technologies & Tools
 
