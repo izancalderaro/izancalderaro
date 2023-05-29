@@ -1,9 +1,7 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,Izan Calderaro here (Dev) 
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Izan Calderaro here (Senior Front-end developer) 
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-izancalderaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izan-calderaro/)](https://www.linkedin.com/in/izan-calderaro/) [![Gmail Badge](https://img.shields.io/badge/Gmail-izancalderaro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:izancalderaro@gmail.com)](mailto:izancalderaro@gmail.com)
 [![wakatime](https://wakatime.com/badge/user/51522b37-dc12-448d-b3e3-2662b3a48a08.svg)](https://wakatime.com/@51522b37-dc12-448d-b3e3-2662b3a48a08)
-
-### Senior Front-end developer
 
 ## I’m currently working on
 
