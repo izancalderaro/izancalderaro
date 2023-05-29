@@ -6,7 +6,7 @@
 
 **I’m currently working on**<br>
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-F1F2F3?style=flat-square&logo=typescript)[![wakatime](https://wakatime.com/badge/user/51522b37-dc12-448d-b3e3-2662b3a48a08.svg)](https://wakatime.com/@51522b37-dc12-448d-b3e3-2662b3a48a08)
+![TypeScript](https://img.shields.io/badge/-TypeScript-F1F2F3?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F1F2F3?style=flat-square&logo=javascript)
 ![SASS](https://img.shields.io/badge/-SASS-F1F2F3?style=flat-square&logo=sass)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-F1F2F3?style=flat-square&logo=Node.js)
